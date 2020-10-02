@@ -1,7 +1,7 @@
-## Figove gulky v cokolade ##
+# Figove gulky v cokolade #
 
-# Suroviny #
+## Suroviny ##
 …
 
-# Postup #
+## Postup ##
 …

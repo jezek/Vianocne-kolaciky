@@ -1,3 +1,3 @@
-## Vianocne kolaciky od mamy ##
+# Vianocne kolaciky od mamy #
 
-- [Figove gulky v cokolade](Figove gulky v cokolade/README.md)
+- [Figove gulky v cokolade](Figove%20gulky%20v%20cokolade/)
