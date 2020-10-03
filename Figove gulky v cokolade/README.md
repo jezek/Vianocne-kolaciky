@@ -6,7 +6,7 @@
 - Piskoty
 - Pomarac
 - Praskovy cukor
-- Vanilkovy cukor
+- Vanilkovy (vanilinovy) cukor
 - Margarin
 - Cokolada na varenie
 
@@ -18,4 +18,4 @@
 5. Zo zmesi narobime gulocky. Zmes som nechal cez noc v chladnicke ulezat, gulocky ukladam na papier na pecenie. Piect nebudeme, len aby sa nelepili. ![Zmes na gulocky](fotky/image20191210_005824782.jpg) ![Gulocky na plechu s papierom na pecenie](fotky/image20191210_020758600.jpg)
 6. Rozopime margarin a horku okoladu vo vodnom kupeli. ![Margarin a cokolada na varenie](fotky/image20191211_011243222.jpg) ![Roztapanie margarinu](fotky/image20191211_011747614.jpg) ![Roztapanie cokolady na varenie](fotky/image20191211_012753832.jpg)
 7. Gulkocky macame v zmesi rozpustenej cokolady a margarinu. Nakoniec ich mozeme pokvapkat cokoladou aby sme vytvorili prskavy vzor. ![Namacanie gulociek](fotky/image20191211_020055767.jpg) ![Prskanie guliciek](fotky/image20191211_021939508.jpg)
-8. Vychutname s vysledky nasej prace. ![Figove gulocky v cokolade na plechu](fotky/image20191211_021950162.jpg)
+8. Vychutname si vysledky nasej prace. ![Figove gulocky v cokolade na plechu](fotky/image20191211_021950162.jpg)
