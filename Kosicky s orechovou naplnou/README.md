@@ -47,7 +47,8 @@ Poznámka: Fotky v tomto návode sú z druhého, už podareného pokusu. Prvý s
 
 8. Cukrový roztok varíme na miernom "plameni", kým nezhustne na číru bublajúcu masu. Sledujeme konzistenciu – sirup má byť priezračný a hutnejší. ![Bublajúci cukrový sirup](./fotky/image20250529_023722700.jpg) ![Hustejúci a bublajúci sirup](./fotky/image20250529_024049196.jpg)
 
-   - Namiesto teplomera sledujeme, kedy je sirup „tak akurát“. Kvapku prenesieme paličkou na studenú dosku a prstom skúšame, či je hmota lepkavá a či sa pri dotyku tvorí „pavučinka“. Ak sa tvorí, je hotovo. Pozor, pri prvom náznaku zmeny farby sirup okamžite odstavíme z ohňa.
+   - Namiesto teplomera sledujeme, kedy je sirup „tak akurát“ – varíme cukor **na nitku**. Kvapku sirupu prenesieme paličkou na tanierik, necháme pár sekúnd postáť, omočíme si v nej ukazovák a palec, prsty spojíme a pri odtiahnutí by sa mala ťahať tenká nitka (alebo sa prstom dotkneme kvapky na tanieriku, zdvihneme ho a pozorujeme, či sa ťahá nitka). Ak sa nitka ťahá, sirup je hotový.
+   - Pozor, pri prvom náznaku zmeny farby sirup okamžite odstavíme z ohňa.
 
 9. Do horúceho sirupu pridáme maslo a čokoládu a miešame, kým sa všetko nerozpustí a nespojí. ![Roztápanie masla a čokolády v sirupe](./fotky/image20250529_024158170.jpg)
 
@@ -77,14 +78,14 @@ Poznámka: Fotky v tomto návode sú z druhého, už podareného pokusu. Prvý s
 
 21. Košíčky zalejeme vrchnou vrstvou čokoládovej polevy tak, aby vyplnila košíček po okraj. ![Zaliate košíčky čokoládovou polevou](./fotky/image20250531_025011601.jpg) ![Viacero košíčkov zaliatych polevou](./fotky/image20250604_023456321.jpg)
 
-22. Nakoniec povrch ešte teplej čokolády posypeme orechovým krokanom (mandľovým, lieskovoorieškovým alebo ich kombináciou). ![Hotové košíčky posypané krokanom](./fotky/image20250531_025757981.jpg) ![Detail košíčkov s posypom](./fotky/image20250531_025809647.jpg) ![Hotová várka košíčkov s krokanom](./fotky/image20250604_024159862.jpg)
+22. Nakoniec povrch ešte teplej čokolády posypeme orechovým krokanom (mandľovým, lieskovoorieškovým alebo ich kombináciou). ![Hotové košíčky posypané krokanom](./fotky/image20250531_025757981.jpg)
 
 ## Výsledok ##
-![Hotové košíčky s orechovou náplňou na podložke](./fotky/produkt.jpg)
+![Hotová várka košíčkov s krokanom](./fotky/image20250604_024159862.jpg)
 
 ## Poznámky ##
 - V pôvodnom recepte odporúčajú varenie na presnú teplotu (110°C) s použitím teplomera. V praxi sa to neosvedčilo – ľahko sa pripáli hrniec a sirup zhnedne.
 - Oveľa lepšie je sledovať sirup očami: musí zostať priezračný. Ak začína meniť farbu, okamžite odstavíme z ohrevu (pri indukcii stačí vypnúť varnú zónu, hrniec netreba dávať preč).
-- Hustosť sirupu kontrolujeme aj „pavučinkovým“ testom – kvapku dáme na studenú dosku a prstom skúšame, či sa pri dotyku tvorí lepkavé vlákno.
+- Hustotu sirupu kontrolujeme tak, že cukor varíme na nitku – kvapku sirupu dáme na tanierik, po chvíľke sa jej dotkneme ukazovákom a pri odtiahnutí sa má ťahať tenká nitka.
 - Množstvo rumu môžeme upraviť podľa chuti alebo úplne vynechať.
 - Košíčky skladujeme v chlade, najlepšie v uzatvárateľnej nádobe, aby čokoláda zostala lesklá a krehká.

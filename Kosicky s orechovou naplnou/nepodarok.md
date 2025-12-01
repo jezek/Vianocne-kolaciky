@@ -26,7 +26,7 @@ Toto je dokumentácia prvého pokusu o košíčky, ktorý sa skončil spáleným
 7. Sirup postupne tmavne, ale teplomer sa tvári, že je všetko v poriadku. Toto je moment, kedy sme sa mali prestať spoliehať na stupnicu a viac veriť vlastným očiam.  
    ![Sirup začína hnednúť](./fotky/nepodarok/image20250526_023357303.jpg)
 
-8. Ešte trochu varenia, veľa pary a cukor sa mení na karamel, ktorý už nemá s receptom veľa spoločné. Až teraz začína teplomer ukazovať odporúčanú teplotu.  
+8. Ešte trochu varenia, veľa pary a cukor sa mení na karamel, ktorý už nemá s receptom veľa spoločné. Až teraz sa začína teplomer približovať k odporúčanej teplote, ale už je neskoro (o čom ešte netuším).  
    ![Hrniec plný pary a pripaľujúceho sa sirupu](./fotky/nepodarok/image20250526_023533296.jpg)
 
 9. Po pridaní orechov a čokolády zisťujeme, že namiesto hladkého krému máme spálené hrudky prilepené na dne hrnca. Toto už žiadne šľahanie nezachráni.  
